@@ -4,8 +4,6 @@
 
 ## Geometry-Inspired Transmission Concept
 
-![Lie-Geometry Transmission Diagram](lie_gts.png)
-
 <p align="center">
   <img src="lie_gts.png" alt="Lie Geometry Inspired Transmission" width="800">
 </p>
