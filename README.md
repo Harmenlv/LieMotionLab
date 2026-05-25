@@ -9,7 +9,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="lie_gtsd.png" alt="Lie Geometry Inspired Transmission" width="800">
+</p>
 ## Overview
 
 This repository explores conceptual mechanical systems inspired by:
